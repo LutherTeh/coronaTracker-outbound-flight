@@ -4,6 +4,9 @@ data extraction from open flight data and visualize the outbound flight
 
 # Wuhan Outbound Flights analysis
 
+![Outbound flight dashboard](/images/coronaTracket-OutboundFlightDashboard.png)
+
+
 **Objective**: to visualize the outbound flight and enable in-depth analysis
 
 **Data source**: history.adsbexchange.com 
