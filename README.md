@@ -14,3 +14,5 @@ https://history.adsbexchange.com/downloads/samples/?fbclid=IwAR0vGBAUsyZcPa-7pqR
 
 
 **Data**: **1st Jan 2020 only** outbound of Wuhan Tianhe Airport (WUH) ( other date will be added in later)
+
+**Sample Dashboard**: https://public.tableau.com/profile/lutherteh#!/vizhome/WuhanOutboundFlightsAnalysis/Dashboard1?publish=yes
